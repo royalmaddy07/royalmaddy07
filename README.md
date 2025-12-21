@@ -1,4 +1,4 @@
-# Hey, I'm Yash Patel 👋
+# Yash Patel
 
 🎓 **B.Tech in Information Technology**  
 📊 Minor in **Artificial Intelligence**  
