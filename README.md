@@ -57,10 +57,6 @@ Right now, I’m focused on:
 ### 🔧 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- Version control & collaboration  
-- Clean commit history  
-- Reproducible experiments  
-
 ---
 
 ## 🌱 What You'll Find Here
