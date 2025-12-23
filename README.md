@@ -46,11 +46,6 @@ Right now, I’m focused on:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-- REST API development  
-- Backend business logic  
-- Model–View–Template (MVT) & API-first architectures  
-- Data handling & validation  
-
 ---
 
 ### 🗄️ Databases
