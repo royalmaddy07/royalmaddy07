@@ -64,12 +64,6 @@ Right now, I’m focused on:
 ---
 
 ## 🌱 What You'll Find Here
-
-📁 **DSA practice & problem-solving**  
-📁 **Machine learning & data analysis projects**  
-📁 **Backend APIs & system-oriented projects**  
-📁 **Well-documented code & experiments**
-
 > Every repository is built with learning + clarity in mind.
 
 ---
