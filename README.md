@@ -18,10 +18,7 @@ I enjoy:
 - 🏗️ Designing **robust backends and APIs**
 - ⚡ Writing **efficient, readable C++ & Python**
 - 🔬 Understanding technology from **first principles**
-
-Right now, I’m focused on:
-> **DSA mastery · ML projects · Backend systems · Scalable APIs**
-
+- 
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -56,11 +53,6 @@ Right now, I’m focused on:
 
 ### 🔧 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🌱 What You'll Find Here
-> Every repository is built with learning + clarity in mind.
 
 ---
 
