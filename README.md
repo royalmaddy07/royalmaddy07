@@ -18,7 +18,6 @@ I enjoy:
 - 🏗️ Designing **robust backends and APIs**
 - ⚡ Writing **efficient, readable C++ & Python**
 - 🔬 Understanding technology from **first principles**
-- 
 ---
 
 ## 🛠️ Tech Stack & Skills
