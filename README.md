@@ -12,12 +12,6 @@
 
 I’m an engineering student obsessed with **how systems work under the hood** — from algorithms and data structures to machine learning models and backend architectures.
 
-I enjoy:
-- 🧠 Solving **algorithmic problems** with clean logic
-- 📊 Building **data-driven & ML-powered systems**
-- 🏗️ Designing **robust backends and APIs**
-- ⚡ Writing **efficient, readable C++ & Python**
-- 🔬 Understanding technology from **first principles**
 ---
 
 ## 🛠️ Tech Stack & Skills
