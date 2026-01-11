@@ -1,68 +1,33 @@
 # Yash Patel
 
-🎓 **B.Tech in Information Technology**  
-🧠 Minor in **Artificial Intelligence**  
-⚙️ Future **Software Engineer | Data Scientist | ML Engineer**
+**IT Engineer | AI Specialist | Backend Developer**
 
-> *I like building things that think, scale, and make sense.*
+> *Building things that think, scale, and make sense.*
 
 ---
 
-## 🧩 Who Am I?
+### 🧩 About Me
+I'm an engineering student focused on the intersection of **Machine Learning** and **Backend Architecture**. I bridge the gap between complex data models and scalable software systems.
 
-I’m an engineering student obsessed with **how systems work under the hood** — from algorithms and data structures to machine learning models and backend architectures.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+* 🎓 **B.Tech** in Information Technology
+* 🧠 **Minor** in Artificial Intelligence
+* 🚀 Passionate about Algorithms, Data Structures, and Scalable Backend Systems.
 
 ---
 
-### 🤖 Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Joblib](https://img.shields.io/badge/Joblib-3C3C3C?style=for-the-badge&logo=python&logoColor=white)
+### 🛠️ Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=databricks&logoColor=white) |
+| **ML / Data** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white) |
+| **Backend** | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
 
 ---
 
-### 🌐 Backend Development & APIs
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yash-patel-8b0236325/) 
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:therealyashpatel@gmail.com)
 
----
-
-### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 🔧 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🌐 Let’s Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yash-patel-8b0236325/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:therealyashpatel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-⭐ **If you find my work interesting, feel free to star a repo**  
-🤝 **Always open to collaboration, learning, and meaningful conversations**
-
-> *Build. Break. Learn. Repeat.* 🚀
+*“Build. Break. Learn. Repeat.”* 🚀
