@@ -1,6 +1,6 @@
 # Yash Patel
 
-**IT Engineer | AI Specialist | Backend Developer**
+---
 
 > *Building things that think, scale, and make sense.*
 
