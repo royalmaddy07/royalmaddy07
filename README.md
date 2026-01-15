@@ -1,10 +1,6 @@
 # Yash Patel
 
----
-
 > *Building things that think, scale, and make sense.*
-
----
 
 ### 🧩 About Me
 I'm an engineering student focused on the intersection of **Machine Learning** and **Backend Architecture**. I bridge the gap between complex data models and scalable software systems.
