@@ -15,4 +15,4 @@ I'm an engineering student focused on **Machine Learning** and **Backend Archite
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yash-patel-8b0236325/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:therealyashpatel@gmail.com)
 
-*“Build. Break. Learn. Repeat.”* 🚀
+*“Build. Break. Learn. Repeat.”*
